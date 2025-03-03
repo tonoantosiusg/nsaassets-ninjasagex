@@ -31,7 +31,7 @@
     },
     {
         "id": "ani_4",
-        "name": "Haloween Dead",
+        "name": "Halloween Dead",
         "category": "dead",
         "label": "halloween_dead_standby",
         "price": 1000,
@@ -106,6 +106,26 @@
         "label": "smoke",
         "price": 0,
         "buyable": false,
+        "premium": false,
+        "loop": false
+    },
+    {
+        "id": "ani_12",
+        "name": "Standby Rebel",
+        "category": "standby",
+        "label": "standby_rebel",
+        "price": 1000,
+        "buyable": true,
+        "premium": false,
+        "loop": true
+    },
+    {
+        "id": "ani_13",
+        "name": "Dodge Bat",
+        "category": "dodge",
+        "label": "dodge_bat",
+        "price": 1000,
+        "buyable": true,
         "premium": false,
         "loop": false
     }

@@ -592,9 +592,9 @@
         "effects": [
             {
                 "is_passive": true,
-                "is_self_buff": true,
+                "is_self_buff": false,
                 "effect": "absorb_hp_attacker",
-                "effect_name": "Recover HP",
+                "effect_name": "Absorb HP",
                 "duration": 0,
                 "calc_type": "percent",
                 "amount": 3,
@@ -1074,9 +1074,9 @@
         "effects": [
             {
                 "is_passive": true,
-                "is_self_buff": true,
+                "is_self_buff": false,
                 "effect": "absorb_hp_attacker",
-                "effect_name": "Recover HP",
+                "effect_name": "Absorb HP",
                 "duration": 0,
                 "calc_type": "percent",
                 "amount": 5,
@@ -2629,6 +2629,46 @@
         ]
     },
     {
+        "id": "accessory_2117",
+        "effects": [
+            {
+                "is_passive": true,
+                "is_self_buff": false,
+                "effect": "absorb_hp_attacker",
+                "effect_name": "Absorb HP",
+                "duration": 0,
+                "calc_type": "percent",
+                "amount": 1,
+                "chance": 6
+            }
+        ]
+    },
+    {
+        "id": "accessory_2118",
+        "effects": [
+            {
+                "is_passive": true,
+                "is_self_buff": true,
+                "effect": "hp_recover",
+                "effect_name": "Recover HP",
+                "duration": 0,
+                "calc_type": "percent",
+                "amount": 3,
+                "chance": 100
+            },
+            {
+                "is_passive": true,
+                "is_self_buff": true,
+                "effect": "damage_reduce",
+                "effect_name": "Reduce Damage",
+                "duration": 0,
+                "calc_type": "percent",
+                "amount": 7,
+                "chance": 100
+            }
+        ]
+    },
+    {
         "id": "accessory_7000",
         "effects": [
             {
@@ -2749,7 +2789,7 @@
                 "effect": "critical_increase",
                 "effect_name": "Increase Critical Chance",
                 "duration": 0,
-                "calc_type": "percent",
+                "calc_type": "number",
                 "amount": 10,
                 "chance": 100
             },
@@ -2761,6 +2801,31 @@
                 "duration": 0,
                 "calc_type": "percent",
                 "amount": 7,
+                "chance": 100
+            }
+        ]
+    },
+    {
+        "id": "accessory_7005",
+        "effects": [
+            {
+                "is_passive": true,
+                "is_self_buff": true,
+                "effect": "dodge_increase",
+                "effect_name": "Increase Dodge Chance",
+                "duration": 0,
+                "calc_type": "number",
+                "amount": 7,
+                "chance": 100
+            },
+            {
+                "is_passive": true,
+                "is_self_buff": true,
+                "effect": "hp_recover",
+                "effect_name": "Recover HP",
+                "duration": 0,
+                "calc_type": "number",
+                "amount": 100,
                 "chance": 100
             }
         ]
