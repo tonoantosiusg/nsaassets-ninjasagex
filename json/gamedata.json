@@ -1290,27 +1290,27 @@
         "id": "scratch",
         "data": {
             "rewards": [
+                "tokens_~1500",
+                "tokens_~15000",
+                "xp_~100%",
+                "tokens_~500",
+                "tokens_~800",
+                "tokens_~900",
+                "tokens_~150",
+                "tokens_~2000",
+                "tokens_~4000",
+                "tokens_~9000",
+                "tokens_~500",
+                "tokens_~250",
+                "tokens_~80",
+                "tokens_~40",
+                "tokens_~20",
                 "tokens_~15",
-                "gold_~50000",
-                "xp_~2%",
-                "tp_~15",
-                "essential_03",
-                "essential_04",
-                "material_874",
-                "material_1001",
-                "essential_02",
-                "essential_01",
-                "wpn_896",
-                "wpn_1338",
-                "wpn_606",
-                "back_380",
-                "back_282",
-                "accessory_30",
-                "pet_rakura",
-                "skill_653"
+                "tokens_~1",
+                "emblem"
             ],
             "grand_prize": [
-                "tokens_2000"
+                "tokens_200000"
             ]
         }
     },
