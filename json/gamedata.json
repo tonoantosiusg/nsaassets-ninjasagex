@@ -7360,15 +7360,15 @@
                 "xp": "level * 2500 / 60",
                 "rewards": [
                     {
-                        "damage": "4k",
+                        "damage": "1",
                         "reward": "material_2177"
                     },
                     {
-                        "damage": "8k",
+                        "damage": "1",
                         "reward": "material_2178"
                     },
                     {
-                        "damage": "12k",
+                        "damage": "1",
                         "reward": "material_2179"
                     }
                 ],

@@ -5,7 +5,7 @@
         "buyable": true,
         "price_gold": 100,
         "level": 1,
-        "damage": 20,
+        "damage": 3000,
         "hit_chance": 0,
         "cp_cost": 30,
         "cooldown": 2,
