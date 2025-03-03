@@ -3333,20 +3333,20 @@
         "data": {
             "rewards": [
                 {
-                    "id": "xp_2",
-                    "requirement": 20
+                    "id": "xp_2000000",
+                    "requirement": 1
                 },
                 {
-                    "id": "gold_50000",
-                    "requirement": 15
+                    "id": "tokens_50000",
+                    "requirement": 1
                 },
                 {
-                    "id": "tp_100",
-                    "requirement": 25
+                    "id": "skill_8008",
+                    "requirement": 3
                 },
                 {
-                    "id": "ss_100",
-                    "requirement": 30
+                    "id": "ss_1000",
+                    "requirement": 10
                 }
             ]
         }
@@ -6673,42 +6673,42 @@
             "milestone_battle": [
                 {
                     "id": "gold_100000",
-                    "requirement": 10,
+                    "requirement": 0,
                     "quantity": 1
                 },
                 {
                     "id": "material_2163",
-                    "requirement": 50,
+                    "requirement": 0,
                     "quantity": 10
                 },
                 {
                     "id": "hair_2280_%s",
-                    "requirement": 100,
+                    "requirement": 0,
                     "quantity": 1
                 },
                 {
                     "id": "essential_05",
-                    "requirement": 200,
+                    "requirement": 0,
                     "quantity": 5
                 },
                 {
                     "id": "set_2318_%s",
-                    "requirement": 300,
+                    "requirement": 0,
                     "quantity": 1
                 },
                 {
                     "id": "tokens_150",
-                    "requirement": 400,
+                    "requirement": 0,
                     "quantity": 1
                 },
                 {
                     "id": "back_2313",
-                    "requirement": 600,
+                    "requirement": 0,
                     "quantity": 1
                 },
                 {
                     "id": "wpn_2320",
-                    "requirement": 750,
+                    "requirement": 0,
                     "quantity": 1
                 }
             ],
@@ -6817,9 +6817,9 @@
                 ],
                 "milestone": [
                     {
-                        "id": "material_2165",
-                        "requirement": 10,
-                        "quantity": 5
+                        "id": "skill_8007",
+                        "requirement": 1,
+                        "quantity": 1
                     },
                     {
                         "id": "hair_2267_%s",
@@ -6884,16 +6884,16 @@
                 {
                     "id": "skill_690",
                     "price": [
-                        9999,
-                        8999
+                        0,
+                        0
                     ],
                     "name": "Kinjutsu: Throwing Shield"
                 },
                 {
                     "id": "skill_691",
                     "price": [
-                        7499,
-                        5999
+                        0,
+                        0
                     ],
                     "name": "Kinjutsu: Throwing Shield Plus"
                 }
@@ -7293,19 +7293,19 @@
                     "requirement": 10000
                 },
                 {
-                    "id": "back_2301",
+                    "id": "skill_8005",
                     "quantity": 1,
-                    "requirement": 20000
+                    "requirement": 0
                 },
                 {
-                    "id": "wpn_2311",
+                    "id": "skill_8006",
                     "quantity": 1,
-                    "requirement": 30000
+                    "requirement": 0
                 },
                 {
                     "id": "skill_2242",
                     "quantity": 1,
-                    "requirement": 50000
+                    "requirement": 0
                 }
             ],
             "minigame": [
@@ -7338,7 +7338,7 @@
                         "wpn_1099",
                         "pet_inarifox"
                     ],
-                    "price": 4499
+                    "price": 0
                 }
             ]
         }
@@ -7462,7 +7462,7 @@
                 "hair_2281_%s",
                 "set_2320_%s"
             ],
-            "free_pet": "pet_goat"
+            "free_pet": "pet_sanbi"
         }
     }
 ]

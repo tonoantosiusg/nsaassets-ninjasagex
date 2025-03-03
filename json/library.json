@@ -11,7 +11,7 @@
         "price_tokens": 0,
         "id": "wpn_01",
         "price_gold": 70,
-        "name": "Kunai X",
+        "name": "Kunai Cheat",
         "buyable": true,
         "premium": false,
         "price_prestige": 100000,
@@ -14768,7 +14768,7 @@
         "name": "S0 Clan: Advance Burning Maple Greatsword",
         "buyable": false,
         "premium": false,
-        "price_prestige": 50000,
+        "price_prestige": 0,
         "category": "clan",
         "sellable": false
     },

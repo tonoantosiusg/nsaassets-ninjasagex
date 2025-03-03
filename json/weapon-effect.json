@@ -15,6 +15,20 @@
         ]
     },
     {
+              "id": "wpn_01",
+        "effects": [
+            {
+                                "is_passive": true,
+                "is_self_buff": false,
+                "effect": "drain_hp_with_attack",
+                "effect_name": "Drain",
+                "reduce_type": "CURRENT",
+                "duration": 5,
+                "calc_type": "percent",
+                "amount": 40,
+                "chance": 100
+    },
+    {
         "id": "wpn_09",
         "effects": [
             {

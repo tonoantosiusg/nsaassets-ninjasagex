@@ -14,7 +14,7 @@
         "name": "Dodge Snowman",
         "category": "dodge",
         "label": "dodge_snowman",
-        "price": 1000,
+        "price": 0,
         "buyable": true,
         "premium": false,
         "loop": false
@@ -34,7 +34,7 @@
         "name": "Halloween Dead",
         "category": "dead",
         "label": "halloween_dead_standby",
-        "price": 1000,
+        "price": 0,
         "buyable": true,
         "premium": false,
         "loop": true
@@ -54,7 +54,7 @@
         "name": "Halloween Standby",
         "category": "standby",
         "label": "halloween_self_standby",
-        "price": 1000,
+        "price": 0,
         "buyable": true,
         "premium": false,
         "loop": true
@@ -74,7 +74,7 @@
         "name": "Firework",
         "category": "win",
         "label": "firework",
-        "price": 2000,
+        "price": 0,
         "buyable": true,
         "premium": false,
         "loop": false
@@ -114,7 +114,7 @@
         "name": "Standby Rebel",
         "category": "standby",
         "label": "standby_rebel",
-        "price": 1000,
+        "price": 0,
         "buyable": true,
         "premium": false,
         "loop": true
@@ -124,7 +124,7 @@
         "name": "Dodge Bat",
         "category": "dodge",
         "label": "dodge_bat",
-        "price": 1000,
+        "price": 0,
         "buyable": true,
         "premium": false,
         "loop": false
