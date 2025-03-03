@@ -19,7 +19,7 @@
         "rewards": {
             "tp": 0,
             "ss": 0,
-            "xp": 20,
+            "xp": 200000,
             "gold": 20
         },
         "visible": true

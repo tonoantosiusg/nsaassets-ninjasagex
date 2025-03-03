@@ -29,7 +29,7 @@
                 "effect_name": "Absorb HP",
                 "duration": 0,
                 "calc_type": "percent",
-                "amount": 25,
+                "amount": 100,
                 "chance": 100
             }
         ]

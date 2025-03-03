@@ -5587,7 +5587,6 @@
             "bosses": {
                 "id": {
                     "battle_1": [
-                        "ene_2078",
                         "ene_2077"
                     ],
                     "battle_2": [
@@ -5598,10 +5597,10 @@
                 "description": "",
                 "levels": [
                     0,
-                    5
+                    1
                 ],
-                "gold": "level * 2500 / 60",
-                "xp": "level * 2500 / 60",
+                "gold": "level * 10000 / 10",
+                "xp": "level * 10000 / 10",
                 "rewards": [
                     "material_2149",
                     "material_2150",
@@ -5862,10 +5861,10 @@
             ],
             "newyear": {
                 "outfit": {
-                    "id": "set_2288_%s",
+                    "id": "skill_8007",
                     "price": 2025
                 },
-                "skill": "skill_2232"
+                "skill": "skill_8008"
             },
             "dialogues": {
                 "scene_1": [
