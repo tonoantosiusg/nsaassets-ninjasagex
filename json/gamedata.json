@@ -3,7 +3,7 @@
         "id": "academy",
         "data": {
             "wind": [
-                "skill_13",
+                "skill_8008",
                 "skill_16",
                 "skill_06",
                 "skill_17",
@@ -5588,9 +5588,6 @@
                 "id": {
                     "battle_1": [
                         "ene_2077"
-                    ],
-                    "battle_2": [
-                        "ene_2079"
                     ]
                 },
                 "name": "Pitch Black",
@@ -5599,8 +5596,8 @@
                     0,
                     1
                 ],
-                "gold": "level * 10000 / 10",
-                "xp": "level * 10000 / 10",
+                "gold": "80 * 1000000 / 1",
+                "xp": "80 * 1000000 / 1",
                 "rewards": [
                     "material_2149",
                     "material_2150",
