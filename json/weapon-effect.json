@@ -15,20 +15,6 @@
         ]
     },
     {
-              "id": "wpn_01",
-        "effects": [
-            {
-                                "is_passive": true,
-                "is_self_buff": false,
-                "effect": "drain_hp_with_attack",
-                "effect_name": "Drain",
-                "reduce_type": "CURRENT",
-                "duration": 5,
-                "calc_type": "percent",
-                "amount": 40,
-                "chance": 100
-    },
-    {
         "id": "wpn_09",
         "effects": [
             {
@@ -19765,13 +19751,28 @@
                 "chance": 50
             },
             {
+        "id": "wpn_01",
+        "effects": [
+            {
+                "is_passive": true,
+                "is_self_buff": false,
+                "effect": "poison",
+                "effect_name": "Poison",
+                "duration": 10,
+                "calc_type": "percent",
+                "amount": 50,
+                "chance": 100
+            }
+        ]
+    },
+            {
                 "is_passive": true,
                 "is_self_buff": true,
                 "effect": "accuracy_increase",
                 "effect_name": "Increase Accuracy",
                 "duration": 0,
                 "calc_type": "number",
-                "amount": 35,
+                "amount": 80,
                 "chance": 100
             }
         ]
