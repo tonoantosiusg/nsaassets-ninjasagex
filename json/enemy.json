@@ -28103,9 +28103,9 @@
     },
     {
         "id": "ene_415",
-        "level": 80,
+        "level": 1,
         "name": "Jurojin",
-        "hp": 1,
+        "hp": 0,
         "cp": 1,
         "dodge": 25,
         "critical": 30,
