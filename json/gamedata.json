@@ -6002,9 +6002,9 @@
                 "description": "",
                 "levels": [
                     0,
-                    5
+                    1
                 ],
-                "gold": "level * 2500 / 60",
+                "gold": "level * 1 / 60",
                 "xp": "level * 2500 / 60",
                 "rewards": [
                     "material_2154",
@@ -6180,7 +6180,7 @@
                     "description": "",
                     "levels": [
                         0,
-                        5
+                        1
                     ],
                     "gold": "level * 2500 / 60",
                     "xp": "level * 2500 / 60",
@@ -6272,19 +6272,19 @@
             "boss_unlock": [
                 {
                     "id": "material_2157",
-                    "requirement": 50
+                    "requirement": 0
                 },
                 {
                     "id": "material_2158",
-                    "requirement": 50
+                    "requirement": 0
                 },
                 {
                     "id": "material_2159",
-                    "requirement": 50
+                    "requirement": 0
                 },
                 {
                     "id": "material_2160",
-                    "requirement": 50
+                    "requirement": 0
                 }
             ],
             "npc_recruit": [
@@ -7348,13 +7348,15 @@
         "data": {
             "bosses": {
                 "id": [
-                    "ene_2086"
+                    "ene_2086",
+                     "ene_2086",
+                      "ene_2086"
                 ],
                 "name": "Ghost Spectre",
                 "description": "",
                 "levels": [
                     0,
-                    5
+                    1
                 ],
                 "gold": "level * 2500 / 60",
                 "xp": "level * 2500 / 60",
