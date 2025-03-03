@@ -5586,8 +5586,11 @@
         "data": {
             "bosses": {
                 "id": {
-                    "battle_1": [
+                                       "battle_1": [
                         "ene_2077"
+                    ],
+                    "battle_2": [
+                        "ene_2079"
                     ]
                 },
                 "name": "Pitch Black",
