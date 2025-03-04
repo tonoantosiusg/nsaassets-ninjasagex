@@ -647,23 +647,23 @@
                 },
                 {
                     "id": [
-                        "ene_461"
+                        "ene_427"
                     ],
                     "num": 1,
-                    "name": "Hell Horse",
-                    "bg": "mission_155",
+                    "name": "Benzaiten",
+                    "bg": "mission_1047",
                     "lvl": "10",
                     "rank": 4,
-                    "desc": "Only few dared to face this blazing mare. The path it leaves are the ashes of it's victims. This boss has high accuracy.",
+                    "desc": "Benzaiten is a boss available during the Ninja Saga 6th Anniversary.",
                     "rewards": [
-                        "wpn_1140",
-                        "material_01",
-                        "material_02",
-                        "material_2110",
-                        "item_58"
+                        "tokens_1000",
+                        "skill_8008",
+                        "skill_7007",
+                        "skill_284",
+                        "wpn_1035"
                     ],
-                    "gold": 35000,
-                    "xp": 23000
+                    "gold": 135000,
+                    "xp": 123000
                 },
                 {
                     "id": [
@@ -5591,11 +5591,11 @@
         "data": {
             "bosses": {
                 "id": {
-                                       "battle_1": [
+                  "battle_1": [
                         "ene_2077"
                     ],
                     "battle_2": [
-                        "ene_01"
+                        "ene_2079"
                     ]
                 },
                 "name": "Pitch Black",
@@ -6290,6 +6290,10 @@
                     "id": "material_2160",
                     "requirement": 0
                 }
+             ],
+            "npc_recruit": [
+                "npc_105",
+                "npc_106"
             ],
             "milestone_battle": [
                 {
