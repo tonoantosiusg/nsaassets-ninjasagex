@@ -4142,7 +4142,7 @@
                 "effect_name": "Increase Dodge Chance",
                 "duration": 0,
                 "calc_type": "number",
-                "amount": 15,
+                "amount": 30,
                 "chance": 100
             },
             {
@@ -4173,6 +4173,16 @@
                 "duration": 0,
                 "calc_type": "percent",
                 "amount": 100,
+                "chance": 100
+            },
+            {
+                "is_passive": true,
+                "is_self_buff": true,
+                "effect": "max_hp_increase",
+                "effect_name": "Increase Max HP",
+                "duration": 0,
+                "calc_type": "number",
+                "amount": 10000,
                 "chance": 100
             }
         ]

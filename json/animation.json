@@ -1,6 +1,6 @@
 [
     {
-        "id": "ani_1",
+        "id": "ani_2",
         "name": "Dodge",
         "category": "dodge",
         "label": "dodge",
@@ -10,17 +10,17 @@
         "loop": false
     },
     {
-        "id": "ani_2",
+        "id": "ani_1",
         "name": "Dodge Snowman",
         "category": "dodge",
         "label": "dodge_snowman",
         "price": 0,
-        "buyable": true,
+        "buyable": false,
         "premium": false,
         "loop": false
     },
     {
-        "id": "ani_3",
+        "id": "ani_4",
         "name": "Dead",
         "category": "dead",
         "label": "dead",
@@ -30,17 +30,17 @@
         "loop": false
     },
     {
-        "id": "ani_4",
+        "id": "ani_3",
         "name": "Halloween Dead",
         "category": "dead",
         "label": "halloween_dead_standby",
         "price": 0,
-        "buyable": true,
+        "buyable": false,
         "premium": false,
         "loop": true
     },
     {
-        "id": "ani_5",
+        "id": "ani_6",
         "name": "Standby",
         "category": "standby",
         "label": "standby",
@@ -50,17 +50,17 @@
         "loop": true
     },
     {
-        "id": "ani_6",
+        "id": "ani_5",
         "name": "Halloween Standby",
         "category": "standby",
         "label": "halloween_self_standby",
         "price": 0,
-        "buyable": true,
+        "buyable": false,
         "premium": false,
         "loop": true
     },
     {
-        "id": "ani_7",
+        "id": "ani_8",
         "name": "Win",
         "category": "win",
         "label": "win",
@@ -70,12 +70,12 @@
         "loop": false
     },
     {
-        "id": "ani_8",
+        "id": "ani_7",
         "name": "Firework",
         "category": "win",
         "label": "firework",
         "price": 0,
-        "buyable": true,
+        "buyable": false,
         "premium": false,
         "loop": false
     },

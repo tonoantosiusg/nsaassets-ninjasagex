@@ -2573,7 +2573,7 @@
                 "effect_name": "Block Damage",
                 "duration": 0,
                 "calc_type": "",
-                "amount": 13,
+                "amount": 25,
                 "chance": 100
             }
         ]

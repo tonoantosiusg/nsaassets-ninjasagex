@@ -18581,7 +18581,7 @@
                 "effect_name": "Increase Dodge Chance",
                 "duration": 0,
                 "calc_type": "number",
-                "amount": 30,
+                "amount": 60,
                 "chance": 100
             }
         ]

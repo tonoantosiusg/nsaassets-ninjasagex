@@ -628,244 +628,359 @@
             "bosses": [
                 {
                     "id": [
-                        "ene_460"
+                        "ene_210"
                     ],
-                    "num": 0,
-                    "name": "Kamaitachi",
-                    "bg": "mission_155",
-                    "lvl": "10",
-                    "rank": 4,
-                    "desc": "Many unwary travellers fell victim to this slicing menace. At first they thought, 'It's just a breeze,' then comes the slaughter. This boss has high accuracy.",
+                    "name": "Kyubi's Father",
+                    "description": "",
+                    "levels": [
+                        0,
+                        5
+                    ],
+                    "gold": "level * 2500 / 60",
+                    "xp": "level * 2500 / 60",
                     "rewards": [
-                        "wpn_1138",
-                        "material_01",
-                        "material_2110",
-                        "item_58"
+                        "material_2104",
+                        "material_2105",
+                        "material_2106"
                     ],
-                    "gold": 30000,
-                    "xp": 20000
+                    "background": "mission_1031"
                 },
                 {
                     "id": [
-                        "ene_461"
+                        "ene_200"
                     ],
-                    "num": 1,
-                    "name": "Hell Horse",
-                    "bg": "mission_155",
-                    "lvl": "20",
-                    "rank": 4,
-                    "desc": "Only few dared to face this blazing mare. The path it leaves are the ashes of it's victims. This boss has high accuracy.",
+                    "name": "Hachibi's Father",
+                    "description": "",
+                    "levels": [
+                        0,
+                        5
+                    ],
+                    "gold": "level * 2500 / 50",
+                    "xp": "level * 2500 / 50",
                     "rewards": [
-                        "wpn_1140",
-                        "material_01",
-                        "material_02",
-                        "material_2110",
-                        "item_58"
+                        "material_2103",
+                        "material_2105",
+                        "material_2106"
                     ],
-                    "gold": 35000,
-                    "xp": 23000
+                    "background": "mission_1031"
                 },
                 {
                     "id": [
-                        "ene_462"
+                        "ene_201"
                     ],
-                    "num": 2,
-                    "name": "Kabutomushi Musha",
-                    "bg": "mission_155",
-                    "lvl": "25",
-                    "rank": 3,
-                    "desc": "Known for its adamantine shell, no one has ever managed to leave a dent on it. This boss has high accuracy.",
+                    "name": "Nanabi's Father",
+                    "description": "",
+                    "levels": [
+                        0,
+                        5
+                    ],
+                    "gold": "level * 2500 / 40",
+                    "xp": "level * 2500 / 40",
                     "rewards": [
-                        "wpn_1142",
-                        "material_01",
-                        "material_02",
-                        "material_2110",
-                        "item_58"
+                        "material_2102",
+                        "material_2105",
+                        "material_2106"
                     ],
-                    "gold": 38000,
-                    "xp": 25000
+                    "background": "mission_1031"
                 },
                 {
                     "id": [
-                        "ene_463",
-                        "ene_464"
+                        "ene_202"
                     ],
-                    "num": 3,
-                    "name": "Kinkaku & Ginkaku",
-                    "bg": "mission_155",
-                    "lvl": "30",
-                    "rank": 3,
-                    "desc": "They're the strongest generals of the 'Demon Army'. Kinkaku and Ginkaku specialize in razing fortified defenses to create a path for army. This boss has high accuracy.",
+                    "name": "Rokubi's Father",
+                    "description": "",
+                    "levels": [
+                        0,
+                        5
+                    ],
+                    "gold": "level * 2500 / 40",
+                    "xp": "level * 2500 / 40",
                     "rewards": [
-                        "wpn_1144",
-                        "wpn_1146",
-                        "material_01",
-                        "material_02",
-                        "material_03",
-                        "material_2110",
-                        "item_58"
+                        "material_2101",
+                        "material_2105",
+                        "material_2106"
                     ],
-                    "gold": 40000,
-                    "xp": 30000
+                    "background": "mission_1031"
                 },
                 {
                     "id": [
-                        "ene_465"
+                        "ene_203"
                     ],
-                    "num": 4,
-                    "name": "Thunder Eagle",
-                    "bg": "mission_155",
-                    "lvl": "40",
-                    "rank": 2,
-                    "desc": "An ancient being that has the power to command lightning on its will. This boss has high accuracy.",
+                    "name": "Gobi's Father",
+                    "description": "",
+                    "levels": [
+                        0,
+                        5
+                    ],
+                    "gold": "level * 2500 / 40",
+                    "xp": "level * 2500 / 40",
                     "rewards": [
-                        "wpn_1148",
-                        "material_01",
-                        "material_02",
-                        "material_03",
-                        "material_2110",
-                        "item_58"
+                        "material_2100",
+                        "material_2105",
+                        "material_2106"
                     ],
-                    "gold": 49000,
-                    "xp": 35000
+                    "background": "mission_1031"
+                }
+            ],
+            "milestone_battle": [
+                {
+                    "id": "gold_100000",
+                    "requirement": 10,
+                    "quantity": 1
                 },
                 {
-                    "id": [
-                        "ene_466"
-                    ],
-                    "num": 5,
-                    "name": "Mammoth King",
-                    "bg": "mission_155",
-                    "lvl": "50",
-                    "rank": 2,
-                    "desc": "A prehistoric creature that has absorbed large amounts of 'Underworld Essence', which enabled it to evolve and survive through the ages. This boss has high accuracy.",
-                    "rewards": [
-                        "wpn_1150",
-                        "material_01",
-                        "material_02",
-                        "material_03",
-                        "material_04",
-                        "material_2110",
-                        "item_58"
-                    ],
-                    "gold": 55000,
-                    "xp": 38000
+                    "id": "material_2105",
+                    "requirement": 50,
+                    "quantity": 10
                 },
                 {
-                    "id": [
-                        "ene_467"
-                    ],
-                    "num": 6,
-                    "name": "Ocean Queen",
-                    "bg": "mission_155",
-                    "lvl": "55",
-                    "rank": 1,
-                    "desc": "Possessed by the cursed trident, the 'Ocean Queen' wreaks havoc to any vessel who dares to cross its domain. This boss has high accuracy.",
-                    "rewards": [
-                        "wpn_1152",
-                        "material_01",
-                        "material_02",
-                        "material_03",
-                        "material_04",
-                        "material_2110",
-                        "item_58"
-                    ],
-                    "gold": 57000,
-                    "xp": 40000
+                    "id": "hair_2164_%s",
+                    "requirement": 100,
+                    "quantity": 1
                 },
                 {
-                    "id": [
-                        "ene_468"
-                    ],
-                    "num": 7,
-                    "name": "Ghost Soldier",
-                    "bg": "mission_155",
-                    "lvl": "60",
-                    "rank": 1,
-                    "desc": "Once a noble warrior, it was consumed by malice. Now, it leaves destruction in its wake. This boss has high accuracy.",
-                    "rewards": [
-                        "wpn_1154",
-                        "material_02",
-                        "material_03",
-                        "material_04",
-                        "material_05",
-                        "material_2110",
-                        "item_58"
-                    ],
-                    "gold": 62000,
-                    "xp": 48000
+                    "id": "essential_05",
+                    "requirement": 200,
+                    "quantity": 5
                 },
                 {
-                    "id": [
-                        "ene_469"
-                    ],
-                    "num": 8,
-                    "name": "Battle Angel",
-                    "bg": "mission_155",
-                    "lvl": "70",
-                    "rank": 1,
-                    "desc": "A combat angel who has lost its purpose. Driven by its conviction, it continues to slay anyone who cross its path. This boss has high accuracy.",
-                    "rewards": [
-                        "wpn_1156",
-                        "material_02",
-                        "material_03",
-                        "material_04",
-                        "material_05",
-                        "material_2110",
-                        "item_58"
-                    ],
-                    "gold": 72000,
-                    "xp": 56000
+                    "id": "set_2201_%s",
+                    "requirement": 300,
+                    "quantity": 1
                 },
                 {
-                    "id": [
-                        "ene_470"
-                    ],
-                    "num": 9,
-                    "name": "Infernal Chimera",
-                    "bg": "mission_155",
-                    "lvl": "80",
-                    "rank": 1,
-                    "desc": "An archdemon who consumed its own kind to become more powerful. The king of hell ordered it to oversee the \u201cHell\u2019s Gate\u201d. This boss has high accuracy.",
-                    "rewards": [
-                        "wpn_1158",
-                        "material_01",
-                        "material_02",
-                        "material_03",
-                        "material_04",
-                        "material_05",
-                        "material_06",
-                        "material_2110",
-                        "item_58"
-                    ],
-                    "gold": 100000,
-                    "xp": 75000
+                    "id": "tokens_150",
+                    "requirement": 400,
+                    "quantity": 1
                 },
                 {
-                    "id": [
-                        "ene_432",
-                        "ene_433"
+                    "id": "back_2209",
+                    "requirement": 600,
+                    "quantity": 1
+                },
+                {
+                    "id": "wpn_2224",
+                    "requirement": 750,
+                    "quantity": 1
+                }
+            ],
+            "gacha": {
+                "top": [
+                    "skill_2181",
+                    "tokens_2000"
+                ],
+                "mid": [
+                    "skill_2180",
+                    "skill_2179",
+                    "skill_2094",
+                    "skill_2095",
+                    "skill_2096",
+                    "wpn_2231",
+                    "wpn_2232",
+                    "wpn_2233",
+                    "wpn_2234",
+                    "wpn_2120",
+                    "wpn_2121",
+                    "wpn_2122",
+                    "back_2216",
+                    "back_2217",
+                    "back_2218",
+                    "back_2219",
+                    "back_2220",
+                    "back_2113",
+                    "back_2114",
+                    "back_2115",
+                    "material_1001",
+                    "essential_03",
+                    "essential_04",
+                    "essential_05",
+                    "item_52",
+                    "item_54",
+                    "material_775",
+                    "material_776",
+                    "material_777",
+                    "material_778",
+                    "material_779",
+                    "material_780",
+                    "material_781",
+                    "material_782",
+                    "material_783",
+                    "material_784",
+                    "material_785",
+                    "material_786",
+                    "material_787",
+                    "material_788",
+                    "material_789",
+                    "material_790",
+                    "material_791",
+                    "material_792",
+                    "material_793",
+                    "material_794",
+                    "material_795",
+                    "material_796",
+                    "material_797",
+                    "material_798",
+                    "material_799",
+                    "material_800",
+                    "material_801",
+                    "material_802",
+                    "material_803",
+                    "material_804",
+                    "material_805",
+                    "material_806",
+                    "material_807",
+                    "material_808",
+                    "material_809",
+                    "tokens_"
+                ],
+                "common": [
+                    "hair_2171_%s",
+                    "hair_2172_%s",
+                    "hair_2173_%s",
+                    "hair_2174_%s",
+                    "hair_2175_%s",
+                    "hair_2176_%s",
+                    "hair_2177_%s",
+                    "hair_2178_%s",
+                    "set_2208_%s",
+                    "set_2209_%s",
+                    "set_2210_%s",
+                    "set_2211_%s",
+                    "set_2212_%s",
+                    "set_2213_%s",
+                    "set_2214_%s",
+                    "set_2215_%s",
+                    "material_2100",
+                    "material_2101",
+                    "material_2102",
+                    "material_2103",
+                    "material_2104",
+                    "material_2106",
+                    "item_49",
+                    "item_50",
+                    "item_51",
+                    "item_33",
+                    "item_34",
+                    "item_35",
+                    "item_36",
+                    "item_40",
+                    "item_39",
+                    "item_38",
+                    "item_37",
+                    "item_44",
+                    "item_43",
+                    "item_42",
+                    "item_41",
+                    "item_24",
+                    "item_32",
+                    "item_31",
+                    "item_30",
+                    "item_29",
+                    "item_28",
+                    "item_27",
+                    "item_26",
+                    "item_25",
+                    "item_23",
+                    "item_22",
+                    "item_21",
+                    "item_20",
+                    "item_19",
+                    "item_18",
+                    "item_17",
+                    "item_16",
+                    "item_15",
+                    "item_14",
+                    "item_13",
+                    "item_12",
+                    "item_11",
+                    "item_10",
+                    "item_09",
+                    "item_08",
+                    "item_07",
+                    "item_06",
+                    "item_05",
+                    "item_04",
+                    "item_03",
+                    "item_02",
+                    "gold_"
+                ],
+                "milestone": [
+                    {
+                        "id": "gold_100000",
+                        "requirement": 10,
+                        "quantity": 1
+                    },
+                    {
+                        "id": "material_2106",
+                        "requirement": 50,
+                        "quantity": 5
+                    },
+                    {
+                        "id": "hair_2165_%s",
+                        "requirement": 100,
+                        "quantity": 1
+                    },
+                    {
+                        "id": "material_69",
+                        "requirement": 200,
+                        "quantity": 5
+                    },
+                    {
+                        "id": "set_2202_%s",
+                        "requirement": 300,
+                        "quantity": 1
+                    },
+                    {
+                        "id": "tokens_200",
+                        "requirement": 400,
+                        "quantity": 1
+                    },
+                    {
+                        "id": "back_2210",
+                        "requirement": 600,
+                        "quantity": 1
+                    },
+                    {
+                        "id": "wpn_2225",
+                        "requirement": 750,
+                        "quantity": 1
+                    }
+                ]
+            },
+            "rewards_preview": [
+                "back_2211",
+                "wpn_2226",
+                "skill_2174",
+                "wpn_2227",
+                "back_2212",
+                "back_2213",
+                "wpn_2228",
+                "skill_2176",
+                "wpn_2229",
+                "back_2214",
+                "wpn_2230",
+                "back_2215"
+            ],
+            "wishing_tree": [
+                "skill_2173",
+                "wpn_1485",
+                "wpn_2222",
+                "back_680",
+                "tp_",
+                "set_1247_%s",
+                "hair_344_%s",
+                "ss_",
+                "gold_",
+                "tokens_"
+            ],
+            "training": [
+                {
+                    "id": "skill_995",
+                    "price": [
+                        9999,
+                        7999
                     ],
-                    "num": 10,
-                    "name": "Taowu & Taotie",
-                    "bg": "mission_155",
-                    "lvl": "90",
-                    "rank": 1,
-                    "desc": "They are the most powerful generals of the 'Demon Army'. Taowu and Taotie specialize in razing fortified defenses to create a path for army. This boss has high accuracy.",
-                    "rewards": [
-                        "wpn_1111",
-                        "wpn_1112",
-                        "material_01",
-                        "material_02",
-                        "material_03",
-                        "material_04",
-                        "material_05",
-                        "material_06",
-                        "material_2110",
-                        "item_58"
-                    ],
-                    "gold": 150000,
-                    "xp": 100000
+                    "name": "Kinjutsu: Hanami Night Shower"
                 }
             ]
         }
@@ -1192,7 +1307,12 @@
                     "material_1001",
                     "material_204"
                 ],
-                "skills": []
+                "skills": [
+                  "skill_8008",
+                  "skill_7007",
+                  "skill_284",
+                  "skill_2015"
+                  ]
             },
             "clan": {
                 "weapons": [
@@ -3192,19 +3312,19 @@
                     "tab_name": "Classic NPC",
                     "detail": [
                         {
-                            "id": "npc_3",
-                            "name": "Ryuma",
-                            "rank": 3,
-                            "level": 20,
+                            "id": "npc_102",
+                            "name": "Kojima",
+                            "rank": 7,
+                            "level": 70,
                             "premium": false,
                             "price_gold": 2500,
                             "price_token": 0
                         },
                         {
-                            "id": "npc_4",
-                            "name": "Gekko",
-                            "rank": 3,
-                            "level": 20,
+                            "id": "npc_101",
+                            "name": "Pak Ustadz",
+                            "rank": 7,
+                            "level": 60,
                             "premium": false,
                             "price_gold": 2500,
                             "price_token": 0
@@ -3333,20 +3453,20 @@
         "data": {
             "rewards": [
                 {
-                    "id": "xp_2000000",
-                    "requirement": 1
+                    "id": "xp_2000",
+                    "requirement": 5
                 },
                 {
-                    "id": "tokens_50000",
-                    "requirement": 1
+                    "id": "tokens_50",
+                    "requirement": 5
                 },
                 {
-                    "id": "skill_8008",
+                    "id": "skill_01",
                     "requirement": 3
                 },
                 {
-                    "id": "ss_1000",
-                    "requirement": 10
+                    "id": "ss_10",
+                    "requirement": 4
                 }
             ]
         }
@@ -5590,7 +5710,7 @@
                         "ene_2077"
                     ],
                     "battle_2": [
-                        "ene_2079"
+                        "ene_01"
                     ]
                 },
                 "name": "Pitch Black",
@@ -5609,8 +5729,8 @@
                     "essential_14"
                 ],
                 "background": [
-                    "mission_1043",
-                    "mission_1044"
+                    "mission_01",
+                    "mission_01"
                 ]
             },
             "training": [
@@ -5997,7 +6117,7 @@
                 "id": [
                     "ene_2080"
                 ],
-                "name": "Snake God",
+                "name": "🐍",
                 "description": "",
                 "levels": [
                     0,
@@ -6012,7 +6132,7 @@
                     "material_2153",
                     "item_58"
                 ],
-                "background": "mission_1045"
+                "background": "mission_1044"
             },
             "milestone_battle": [
                 {
@@ -6285,10 +6405,6 @@
                     "id": "material_2160",
                     "requirement": 0
                 }
-            ],
-            "npc_recruit": [
-                "npc_105",
-                "npc_106"
             ],
             "milestone_battle": [
                 {

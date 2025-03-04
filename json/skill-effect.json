@@ -3967,11 +3967,31 @@
             {
                 "is_self_buff": true,
                 "is_debuff": false,
-                "effect": "rapid_cooldown",
-                "effect_name": "Rapid Cooldown",
-                "duration": 0,
-                "calc_type": "number",
-                "amount": 5,
+                "effect": "reflexes",
+                "effect_name": "Flexible",
+                "duration": 6,
+                "calc_type": "percent",
+                "amount": 100,
+                "chance": 100
+            },
+            {
+                "is_self_buff": true,
+                "is_debuff": false,
+                "effect": "debuff_resist",
+                "effect_name": "Debuff Resist",
+                "duration": 6,
+                "calc_type": "percent",
+                "amount": 0,
+                "chance": 100
+            },
+            {
+              "is_self_buff": true,
+                "is_debuff": false,
+                "effect": "cp_shield",
+                "effect_name": "Verring Wind",
+                "duration": 4,
+                "calc_type": "percent",
+                "amount": 3,
                 "chance": 100
             }
         ]
