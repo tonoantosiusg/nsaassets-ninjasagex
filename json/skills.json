@@ -11088,8 +11088,8 @@
     {
         "id": "skill_673",
         "price_tokens": 0,
-        "buyable": false,
-        "price_gold": 0,
+        "buyable": true,
+        "price_gold": 10,
         "level": 1,
         "damage": 0,
         "hit_chance": 0,
@@ -11101,7 +11101,7 @@
         "name": "Kinjutsu: Minotaur's Anger",
         "type": "7",
         "premium": false,
-        "na": true,
+        "na": false,
         "anims": {
             "hit": [
                 59
