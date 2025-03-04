@@ -11101,7 +11101,7 @@
         "name": "Kinjutsu: Minotaur's Anger",
         "type": "7",
         "premium": false,
-        "na": false,
+        "na": true,
         "anims": {
             "hit": [
                 59
