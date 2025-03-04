@@ -4154,6 +4154,26 @@
                 "calc_type": "number",
                 "amount": 3,
                 "chance": 100
+            },
+            {
+               "is_passive": true,
+                "is_self_buff": true,
+                "effect": "rewind",
+                "effect_name": "Rewind",
+                "duration": 0,
+                "calc_type": "number",
+                "amount": 100,
+                "chance": 100
+            },
+            {
+               "is_passive": true,
+                "is_self_buff": true,
+                "effect": "max_hp_increase",
+                "effect_name": "Max HP Increase",
+                "duration": 0,
+                "calc_type": "percent",
+                "amount": 100,
+                "chance": 100
             }
         ]
     },
